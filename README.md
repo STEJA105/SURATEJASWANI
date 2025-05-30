@@ -1,11 +1,11 @@
 ### **👋 Hi, I'm SURA TEJASWANI!**  
-💻 Passionate about **python full-stack development** and **data-driven applications**.  
+💻 Aspiring **Python Full-Stack Developer** | **Lifelong Learner** | **Tech Enthusiast**  
 
 ---
 
 ### **🛠️ Skills**
-- **Languages:** Python  
-- **Web:** HTML, CSS,  
+- **Programming Languages:** Python  
+- **Web development:** HTML, CSS,  
 - **Databases:** MySQL  
 - **Frameworks & Tools:** Git, GitHub, MS Office
 
@@ -25,7 +25,7 @@
 
 ---
 
-### **📫 How to Reach Me**
+### **🔗 Connect With Me**
 - 📨 **Email:** sura.tejaswani.5@gmail.com  
 - 🔗 **GitHub:** [SURATEJASWANI](https://github.com/STEJA105)  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/tejaswani-sura-a2914914b                            
