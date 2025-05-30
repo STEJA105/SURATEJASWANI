@@ -1,5 +1,3 @@
-# SURATEJASWANI
-
 ### **👋 Hi, I'm SURA TEJASWANI!**  
 💻 Passionate about **python full-stack development** and **data-driven applications**.  
 
