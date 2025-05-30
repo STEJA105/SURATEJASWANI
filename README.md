@@ -27,7 +27,7 @@
 
 ### **🔗 Connect With Me**
 - 📨 **Email:** sura.tejaswani.5@gmail.com  
-- 🔗 **GitHub:** [SURATEJASWANI](https://github.com/STEJA105)  
+- 🔗 **GitHub:** [SURATEJASWANI](https://github.com/SURATEJASWANI)  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/tejaswani-sura-a2914914b                            
 ---
 
